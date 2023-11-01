@@ -52,18 +52,6 @@ img {
 }
 
 a { 
-    color: #b3a885;
-}
-
-a:hover {
-    color: #ffffff;
-}
-
-a:active {
-    color: #b3a885;
-}
-
-a:visited { 
-    color: #d9d9d9;
+    color: black;
 }
 
