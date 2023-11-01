@@ -4,14 +4,14 @@ body {
 }
 
 header {
-   padding-bottom: 25px;
+   padding-bottom: 20px;
     color: #b3a885;
     width: 100%;
     height: 110px;
 }
 
 h1 {
-    padding-top: 40px;
+    padding-top: 20px;
     margin: 0 auto;
     text-align: center;
     font-size: 40px;
@@ -49,7 +49,11 @@ div > ul {
 
 img {
     width: max(300px, 50vw);
-    padding: 20px 0 0 0;
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+
 }
 
 a { 
